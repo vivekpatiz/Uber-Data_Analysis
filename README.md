@@ -11,7 +11,7 @@ A historical dataset with 5 months data in 5 different files
 
 ## 1. Plotting data by trips during every day of the month
 
-## #1. Trips by hour and month
+### 1. Trips by hour and month
 ![image](https://user-images.githubusercontent.com/41379292/201618478-708c6384-20e2-4754-ba6d-f98b05d9611b.png)
 
 ### 2. Trips Every Hour
